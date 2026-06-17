@@ -31,3 +31,12 @@ li {
     font-weight: bold;
     font-family: 'Courier New', Courier, monospace;
 }
+
+.ccMohamud{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: rgb(234, 234, 26);
+    font-weight: italic;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
