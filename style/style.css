@@ -67,3 +67,12 @@ li {
     font-weight: italic;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
+
+.mb{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: rgb(255, 0, 0);
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
