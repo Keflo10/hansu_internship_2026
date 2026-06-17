@@ -1,0 +1,33 @@
+body{
+    background-color: white;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.head{
+    font-size: 50px;
+    color: black;
+    text-align: center;
+}
+
+li {
+    list-style: none;
+    font-size: 30px;
+    color: white;
+}
+.albert{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: rgb(139, 22, 22);
+}
+
+.waako{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: green;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
